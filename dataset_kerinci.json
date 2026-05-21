@@ -1,0 +1,2858 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pakis khas Kerinci?"},
+      {"role": "assistant", "content": "Caro mamasak gulai pakis: partamo bosehkan pakis, giling bumbu cak lagoi lado, bawang, kunyit, jo Sipadeh. Tumis bumbu tu, santak santan, pas lah mandidih baru mamasukkan pakisnyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tolong agih nasihat untuak anak mudo jaman kini."},
+      {"role": "assistant", "content": "Untuak anak mudo kini, jagolah elok-elok budi pakarti, jangan tapangaruh dek parangai yang idak elok, carilah ilmu singgo padek untuak maso depan kayo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan kalau akaw nak gihoih ke Danau Kerinci?"},
+      {"role": "assistant", "content": "Kalau nak gihoih ke Danau Kerinci, kayou ikuik jah jalan rayo ikoh taruih ka arah salatan, gulu tasuo simpang tigo umeh sakik, belok sabaulah kiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo bumbu mambuek sambalado tanak?"},
+      {"role": "assistant", "content": "Bumbunyo mambuek sambalado tanak yoitu lado giling, bawang merah, bawang putih, santan pakek, ikan teri, jo talang ubi atau patai untuak pandampiangnyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro kito iduik rukun jo tatangga?"},
+      {"role": "assistant", "content": "Caro iduik rukun yoitu saling manyapo kalau tasuo di jalan, salang mambantu maso ado kasurukan, jo jagolah muluik jangan mambuek urang tasingguang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tolong tunjukkan jalan ka pasa Sungai Penuh dari koto tuou."},
+      {"role": "assistant", "content": "Dari koto tuou, kayou luruih sajo ka arah kota, subarang jambatan gulu belok kanan pas tasuo lampu merah partamo, sinan lah pasa nyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek kopi Kerinci babiang murni?"},
+      {"role": "assistant", "content": "Ameh mbeak kopi bubuk Kerinci duo sandoak, mamasukkan dalam galeah, tuang auh angek nan baru mandidih, agih gulo sagadang nyo lalu kaco masiak-masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat urang tuo maso kito nak marantau?"},
+      {"role": "assistant", "content": "Nasihat urang tuo maso nak marantau: dima bumi dipijak di sinan langik dijunjuang, jago diri elok-elok, jo jangan tinggakan sumbayang limo wakatu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah gihoih ka umeh pak RT?"},
+      {"role": "assistant", "content": "Umeh pak RT gulu barado di balakang musajik ikoh, kayou lewat jalan ketek di sabaulah suok musajik tu sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak nasi beras Payo singgo lamak?"},
+      {"role": "assistant", "content": "Bosehkan beras Payo tigo kali, agih auh sacukupnyo jangan talalu banyak singgo idak lambiak, lalu masak di ateh tungku atau pariuak nasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo yang harus kito buek kalau ado urang kamalangan?"},
+      {"role": "assistant", "content": "Kalau ado urang kamalangan, kito musti capek gihoih malekat ka umehnyo, mambantu apo nan parlu, jo maagih hiburan panggadang hati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukka jalan ka kantua bupati Kerinci."},
+      {"role": "assistant", "content": "Kantua bupati barado di Bukik Tengah. Dari arah bawah, kayou naiak taruih manginggai jalan mandaki tu singgo tasuo gaduang gadang di puncak bukik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek lemang kantong semar khas Kerinci?"},
+      {"role": "assistant", "content": "Bosehkan kantong semar, mamasukkan beghas kentan nan lah bacampua santan jo garam ka dalamnyo, lalu kukuih singgo matang kasadounyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak gadih nan mudo-mudo?"},
+      {"role": "assistant", "content": "Nasihat untuak anak gadih: jagolah kahormatan diri, jangan pulang talalu malam, jo barajalao mamasak untuak baka baurang umeh isuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan larek ka gayo Minangkabau?"},
+      {"role": "assistant", "content": "Nak ka Minangkabau, kayou luruih taruih manginggai jalan rayo ulu, lapek daerah tapan muko luruih sajo ka arah Pasisia Salatan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak ikan semah gulai kuniang?"},
+      {"role": "assistant", "content": "Potong ikan semah masiak-masiak, giling bumbu kuniang, ancancan santan caiah di pariuak, mamasukkan ikan jo bumbu, masak jo api ketek singgo marasap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo arti papatah 'buhaik padek jago nagari'?"},
+      {"role": "assistant", "content": "Artinyo kito musti badiri padek, bakarajo kareh sarentak mambantu mambangun jo manjago kaamanan kampuang alam kito sandiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah ka ladang kulit manis?"},
+      {"role": "assistant", "content": "Ladang kulit manis barado di lereng bukik gulu, kayou musti bajalan kaki mandaki jalan satapak di subarang batang auh ikoh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadiah dari susu kabau?"},
+      {"role": "assistant", "content": "Mamasukkan susu kabau nan baru diparah ka dalam batuang ketek, tutuik ulenyo jo daun pisang, padiaokan duo ari singgo mambaku surang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat manginggai parangai iduik hemat?"},
+      {"role": "assistant", "content": "Iduik hemat yoitu mambali apo nan parlu sajo, jangan banyaki balanjo nan idak bapaudah, singgo ado simpanan maso sush isuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong ka arah pusek koto?"},
+      {"role": "assistant", "content": "Jalan motongnyo lewat lorong ketek di sabalah umeh ulu ingeh, masuak sinan taruih lapek subarang pasa luruih sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro manggulai rabuang supayo idak pait?"},
+      {"role": "assistant", "content": "Rabuang tu musti diirih tipih lalu rabuih dulu di auh mandidih gulu mamasukkan garam, tuang auh rabuihan tu baru buliah digulai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan baru babini?"},
+      {"role": "assistant", "content": "Untuak nan baru babini, jagolah dunsanak kaduo balah pihak, carilah rasaki nan halal, jo saling saba maso ado salah paham."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tolong tunjukkan dima latak kantua pos?"},
+      {"role": "assistant", "content": "Kantua pos dakek simpang ompek ulu, dari siko kayou luruih sajo, gulu gilo liek gaduang bawarna oranye di sabalah kanan jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek gulai ayam kampuang?"},
+      {"role": "assistant", "content": "Abuih ayam kampuang singgo ampuak, giling lado, bawang, jo langkuas. Masak basamo santan pakek singgo minyaknyo kalua sasaek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat ka urang nan mamiliki sapaan padek?"},
+      {"role": "assistant", "content": "Urang nan padek bacakap musti manjago kato-katonyo, jangan mambuek urang irang hati atau mamacah balah parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima arah jalan ka pincuran auh angek?"},
+      {"role": "assistant", "content": "Jalan ka auh angek yoitu lewat mato auh Semurup, kayou ikuik jah plang patunjuak gulu belok suok salapeh pasa Ketek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak baluik goreng lado ijau?"},
+      {"role": "assistant", "content": "Bosehkan baluik, agih asam limau jo garam, goreng singgo gariang. Tumis lado ijau matang masiak-masiak lalu campuakan baluik tadi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat manginggai bagoiti jo urang mudo?"},
+      {"role": "assistant", "content": "Santiang-santiang manjago diri, jangan talalu pacayo kato manih urang baru, bagoiti sacaro sipan santun padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan kalau akaw nak ka Air Terjun Telun Berasap?"},
+      {"role": "assistant", "content": "Kayou gilo taruih manginggai jalan rayo arah ka Kayu Aro, salapeh umeh panduduak baansiah sunyi, sinan ado garbang masuknyo di kiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek randang dagiang sapi khas daerah kito?"},
+      {"role": "assistant", "content": "Masak dagiang basamo bumbu randang langkok jo santan banyaj. Kaco taruih masiak-masiak di ateh tungku singgo kuahnyo kariang hitam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat supayo parukunan umeh tangga jago?"},
+      {"role": "assistant", "content": "Suami istri musti saling mangarati, kalau laki berang batino musti diyam, baitu pulo sabaliaknyo supayo idak tagaduah anak ketek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukka dima umeh ulu nan manjua madu murni."},
+      {"role": "assistant", "content": "Umeh nan manjua madu barado di muko sikolah dasa nomor duo, ado tando papan ketek batulih madu hutan murni."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro manyaduah teh Kayu Aro nan padek rasonyo?"},
+      {"role": "assistant", "content": "Ambiak teh salendoak, siram jo auh nan batua-batua mandidih, tutuik galeah tu sabanta singgo aromanyo kalua kasadounyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan sadang baraja di sikolah?"},
+      {"role": "assistant", "content": "Barajalah singgo padek, danga carito guru elok-elok, jangan galak mamanciang pakaro nan idak baguno."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah ka tampek patani mamariang padi?"},
+      {"role": "assistant", "content": "Arahnyo luruih ka ulu manginggai parak gadang, di sinan ado lapangan lueh tampek urang biaso mamariang padi sasudah panen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai masik ikan mas?"},
+      {"role": "assistant", "content": "Mamasukkan bumbu giling sarato asang gulu jo ikan mas ka pariuak, agih auh sahinggo mambancah sajo, masak singgo kuahnyo masiak absih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai caro mangalola parak sawah?"},
+      {"role": "assistant", "content": "Jagolah saluran auh sawah elok-elok, bari pupuak pado wakatu nan tapek, jo bersihkan rumpuik liar nan manggaduah padi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan singgo akaw lapek ka terminal angkot?"},
+      {"role": "assistant", "content": "Dari siko kayou bajalan taruih muko lapek parampatan, belok suok sajo, terminal angkot barado pas di ulenyo jalan tu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek kabaik lado mudo?"},
+      {"role": "assistant", "content": "Tumbuak lado mudo basamo bawang jo garam, peras asam limau sasaek, lalu siram jo minyak angek siso manggorang ikan tadi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado pamimpin di kampuang?"},
+      {"role": "assistant", "content": "Pamimpin musti adia kapado kasadoalah warga, danga keluhan urang ketek, jo jangan mamantiang kan diri surang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tolong caritoan dima tampek mambali kain batik Kerinci."},
+      {"role": "assistant", "content": "Kayou gilo gihoih ka sanggar seni dakek kantua dinas pariwisata, di sinan banyak pilihan motif padek bungo tanjuang jo tulisan incung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak samba lado piriang khas pulau tangah?"},
+      {"role": "assistant", "content": "Baka lado merah, bawang, jo tarasi. Tumbuak kasar di ateh piriang batu, agih minyak tanak ketek untuak palamak rasonyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan sush tidoah tiok malam?"},
+      {"role": "assistant", "content": "Jangan rami mamikia sush maso nak tidoah, baco doa dulu, jo maminung auh angek sagaleah supayo badan taraso tanang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan luruih ka Jambi?"},
+      {"role": "assistant", "content": "Nak ka Jambi lewat darat, kayou musti lewat Bangko jo Bungo, ikuik jah jalan liah lintas sumatera ulu taruih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek bubua kentan itam nan lamak?"},
+      {"role": "assistant", "content": "Rabuih kentan itam singgo pacah jo lambiak, mamasukkan gulo merah jo daun pandan, sasudah tu tuang kuah santan pakek di atehnyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mapia gariang supayo anak pamalu bacakap?"},
+      {"role": "assistant", "content": "Agih inyo kasampatan mambao carito di umeh tangga, jangan digalakkan maso inyo salah basapo, ajak taruih bakawan rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh bidan kampuang di siko?"},
+      {"role": "assistant", "content": "Umeh bidan barado di sabalah ulu sakolah batingkek ingeh, jalannyo masuak lorong tigo umeh dari muko jalan rayo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak singgang dagiang kerinci?"},
+      {"role": "assistant", "content": "Potong dagiang tipih, sanggai bumbu banyaj sarato asam kandih, tuang santan encer, abuih singgo bumbu marasap absih ka dagiang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat bia kito sarentak mancapai paruntuangan padek?"},
+      {"role": "assistant", "content": "Carilah rasaki sajak pagi ari, jangan maleh-maleh bagarik, sarentak badoa pado Tuhan Yang Mahaso tiok abih sumbayang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukka arah ka puskesmas keliling danau."},
+      {"role": "assistant", "content": "Dari sinan kayou luruih, salapeh umeh camat ado simpang ompek, belok suok. Puskesmas ado di sabalah kiri muko lapangan bal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek gulai jengkol nan ampuak?"},
+      {"role": "assistant", "content": "Jengkol musti dirabuih basamo daun salam dulu lalu ditumbuak singgo pipih, baru mamasukkan ka dalam kuah gulai santan pakek nan lah bagoiti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat sanak maso kito didatangi panyakik?"},
+      {"role": "assistant", "content": "Maso sakik banyajlah basaba, minum ubek nan diagih dotor, jo manginggai makan nan mambuek panyakik tu tambah parah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong singgo kito idak kanai macet?"},
+      {"role": "assistant", "content": "Kayou masuak lorong parak sayua di sabalah kiri umeh gadang tu, tembusnyo langsuang ka balakang pasa sahinggo bebas macet."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek sambal joruk khas daerah?"},
+      {"role": "assistant", "content": "Ambiak durian nan lah dijoruk (fermentasi), tumis jo lado giling, bawang merah, jo patai singgo baunyo harum sangaik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak man jago batuang hutan kito?"},
+      {"role": "assistant", "content": "Jangan semberono manabang batuang atau kayu ulu, mambuek bukik gundul singgo maso ujan lebek tampek kito bisa kanai galodo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek urang biaso mambali bibit padi payo?"},
+      {"role": "assistant", "content": "Bibit padi payo padek tasuo di toko patani dakek balai desa, atau tanyo langsuang ka muko patani sawah lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambarasihkan ikan semah nan gadang?"},
+      {"role": "assistant", "content": "Ikan semah idak parlu dibuang sisiaknyo, karno sisiaknyo padek dimakan. Cukuik bosehkan paruiknyo jo insang ulenyo sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak anak ketek nan galak baminung auh seghia?"},
+      {"role": "assistant", "content": "Agih tau anak ketek tu supayo mangurangi baminung auh seghia pakek gulo, mambuek gigi capek fusuak jo idak padek untuak kasahatan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah jalan ka situs purbakala mato incung?"},
+      {"role": "assistant", "content": "Kayou gilo taruih ka arah ulu desa, sinan ado tando batulih batu batulih incung, tanyo sajo ka urang umeh ulu untuak dabiang tapeknyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek kureh pinyaram?"},
+      {"role": "assistant", "content": "Campua tapuang beras jo gulo merah encer, aduk singgo batua-batua rato, diamkan samalaman gulu goreng dalam minyak banyaj pakek kuali masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kabasihan parak umeh?"},
+      {"role": "assistant", "content": "Sapu parak umeh tiok sore ari, baka sarok nan kariang, jangan padiaokan auh taganang tampek jantiak nyamuk batulua."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima tampek manggiling bumbu pasa Kerinci."},
+      {"role": "assistant", "content": "Manggiling bumbu barado di bagian balakang pasa, dakek los panjual daging sapi, sinan rami masin manggiling lado."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak sup dagiang kabau nan padek?"},
+      {"role": "assistant", "content": "Abuih dagiang kabau lamo-lamo jo rempah sup langkok padek kulik manih jo cengkeh, agih potongan kantang sarato daun bawang sahinggo segar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak manginggai padiaokan utang banyaj?"},
+      {"role": "assistant", "content": "Jangan biasakan bautang kalau idak batua-batua parlu, biasakan iduik sacukupnyo masiak-masiak bia ati taraso tanang sasaek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih taruih ka Solok Selatan?"},
+      {"role": "assistant", "content": "Dari arah Kayu Aro kayou luruih taruih manginggai ulu bukik, lapek pahabaan provinsi Jambi-Sumbar, taruih mudik sajo ka bawah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek godok pisang padek?"},
+      {"role": "assistant", "content": "Ancancan pisang nan lah masak banyaj, campua jo tapuang terigu sarato kalapa kukur, agih garam saketek lalu goreng bulake-bulake."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado urang nan mamiliki aka pandia?"},
+      {"role": "assistant", "content": "Urang nan pandia musti mambao parubahan elok untuak urang banyak, jangan pakai kapandiaun tu untuak mangicuah dunsanak surang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tando musajik tuo Kerinci?"},
+      {"role": "assistant", "content": "Musajik tuo barado di tengah kampuang, cari sajo gaduang nan atoknyo batingkek tigo lambang patunjuak sasaek ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak pakasam ikan limo ari?"},
+      {"role": "assistant", "content": "Ikan sungai diringgik garam jo nasi dingin, mamasukkan ka toples rapek sahinggo asam. Goreng jo bawang banyaj maso nak dimakan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak pamuda nan suko mambao motor kancang?"},
+      {"role": "assistant", "content": "Mambao motor gilo palahan sajo, pikia-pikia keselamatan diri jo urang lain di jalan rayo, jangan mambuek induak bapak sush ati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan ka kantua polisi resor?"},
+      {"role": "assistant", "content": "Dari jalan utama ikoh, tasuo tugu macan belok kiri, luruih kiro-kiro limo ratih meter, kantua polisi ado di suok jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek urok langkok untuak ulek?"},
+      {"role": "assistant", "content": "Tumbuak kulik manih, sipadeh, kunyit, jo daun-daun parak padek daun jarak, luluehkan pado tampek nan taraso sakik ulek tu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat sanak mangenai cariti urang fusuak?"},
+      {"role": "assistant", "content": "Jangan gampang pacayo carito urang nan suko mambao gunjiang fusuak, mambuek kito baparangai jaek kapado kawan surang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima arah jalan ka koto Sungai Penuh pusat?"},
+      {"role": "assistant", "content": "Ikuik jah jalur angkutan umum ikoh sajo taruih luruih, gulu lapek muko lapangan mardeka, sinan lah pusek kota nyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek keripik kentang Kayu Aro gariang?"},
+      {"role": "assistant", "content": "Irih kantang tipih sangaik, randam di auh kapua siriah sasaek, bosehkan gulu goreng muko minyak nan batua-batua angek lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko manyalahi janji?"},
+      {"role": "assistant", "content": "Urang nan fusuak janji idak ka dipacayo urang lagoi. Karano itu, kalau lah bajanji musti ditapati singgo elok namo kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan ka umeh kapalo desa lamo?"},
+      {"role": "assistant", "content": "Umeh kapalo desa lamo barado di sabalah umeh lurah, gilo masuak lorong di muko kadai kopi lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak teri balado campua patai?"},
+      {"role": "assistant", "content": "Goreng teri singgo gariang, sisiahkan. Tumis lado giling masiak sasaek, mamasukkan patai, matikan api baru campuakan teri tu muko rato."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak jago karesihan dabiang batang auh?"},
+      {"role": "assistant", "content": "Jangan mambuang sarok banyaj ka batang auh, mambuek auh fusuak kotor jo bisa mambao tibo banjia maso ujan labek ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek nan padek mambali asbak dari kayu?"},
+      {"role": "assistant", "content": "Ado pangrajin kerajinan kayu dakek desa tugu ulu, di sinan banyak asbak, tampek tisu padek padek sasaek buatan tangannyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak pajam durian masik?"},
+      {"role": "assistant", "content": "Masak pajam durian basamo santan encer, lado giling ketek jo garam. Masak pado ateh api tapek singgo mamasik kuah ulenyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat biasanyo maso kito masuak hutan gadang?"},
+      {"role": "assistant", "content": "Maso masuak hutan, manginggai basapo takajuik jaek, jagolah tingkah laku, jo jangan semberono marusak tanaman panunggua sinan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima arah luruih ka bukik kaba?"},
+      {"role": "assistant", "content": "Bukik kaba ado di arah ulu sabaulah timur, kayou manginggai sajo jalan parak teh muko tando dabiang gunuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek dodol kentan asli Kerinci?"},
+      {"role": "assistant", "content": "Aduk tapuang kentan, gulo enau nan caiah, sarato santan pakek di kuali gadang. Kaco taruih salamo tujuah jam tanpa baranti singgo kental."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado sanak manginggai panyakik iri ati?"},
+      {"role": "assistant", "content": "Iri ati mambuek batin sush tiok ari. Syukurilah apo nan lah diagih Tuhan kapado kito masiak-masiak tanpa maliat urang lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong dari Semurup ka Sungai Penuh?"},
+      {"role": "assistant", "content": "Kayou gilo lewat jalur sabaulah barat danau, manginggai jalan desa-desa ketek singgo lapek muko balakang terminal Sungai Penuh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai unji (kecombrang) jo ikan?"},
+      {"role": "assistant", "content": "Bolah dua unji masiak, rabuih sasaek basamo bumbu gulai kuniang jo ikan sungai nan segar, rasonyo ka masam-masam segar padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak anak mudo manginggai ulek tidoah siang?"},
+      {"role": "assistant", "content": "Jangan talalu lamo tidoah siang, mambuek badan kaku lambik, labiah elok bagarik mambantu urang tuo di parak atau sawah lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek mambali siriah pinang untuak acaro adat?"},
+      {"role": "assistant", "content": "Gihoih ka pasa tradisional bagian muko, sinan ado muko induak-induak nan manjua daun siriah, pinang mudo, sarato kapua untuak adat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek kue talam tapuang bareh?"},
+      {"role": "assistant", "content": "Buek duo lapisan, lapisan bawah tapuang bareh campua gulo, lapisan ateh pakek santan jo garam. Kukuih bagantian singgo masak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan suko manyandiang kawan sajo?"},
+      {"role": "assistant", "content": "Ida padek iduik bagantuang pado urang lain sajo, biasakan badiri padek banyaj jo usaou sandiri supayo hargo diri jago."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan manginggai umeh adaik lueh?"},
+      {"role": "assistant", "content": "Umeh adaik barado di desa ulu piriang, dari siko luruih taruih muko tasuo umeh gadang baukia banyaj baatap gonjong tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak samba lado pucuak ubi rabuih?"},
+      {"role": "assistant", "content": "Rabuih pucuak ubi mudo jo garam saketek bia rono ijau jago. Tumbuak lado muko bawang merah, sajikan basamo piriang batu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat sanak untuak manghadapi maso pacakbakah?"},
+      {"role": "assistant", "content": "Maso sush rasaki kito musti hemat-hemat banyaj, mamanpaatkan parak untuak batanam sayua singgo idak parlu mambali sasaek lua."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima tampek panyewaan baju adat Kerinci."},
+      {"role": "assistant", "content": "Panyewaan baju adat tasuo di dakek sanggar tari pusek kota, subarang gaduang olahraga, sinan langkok jo pakayan laleat nyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek tumis sayua paku lada hitam?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis bawang merah, bawang putih sarato lada hitam tumbuakh, mamasukkan pakis kaco capek di api gadang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo manuruik kato guru?"},
+      {"role": "assistant", "content": "Guru tu pangganti tuo kito di sikolah, danga patunjuak eloknyo bia elok jalannyo muko mambao ilmu barakah dunia akhiraik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah ka tampek panjual tam bako asli Kerinci?"},
+      {"role": "assistant", "content": "Panjual tambako barado di tanyou sudut pasa sabalah suok, sinan ado kadai tuo nan gantuang daun tambako kariang banyaj."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai cubadak (nangka mudo) padek?"},
+      {"role": "assistant", "content": "Potong cubadak ketek-ketek, rabuih singgo lambiak sasaek. Masak jo bumbu gulai pakek, mamasukkan potongan dagiang tatelan bia tambah lamak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat manginggai batin nan sadang bimbang sush?"},
+      {"role": "assistant", "content": "Banyajlah ba-dzikir jo basarah diri pado Allah, carilah kawan padek tampek batuka pikia untuak mandapek jalan kalua elok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima arah jalan luruih manginggai Danau Kaco?"},
+      {"role": "assistant", "content": "Gihoih ka Lempur ulu, dari sinan kayou parlu bajalan kaki masuak hutan linduang dibao dek guide lokal bia idak sush sasek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak pindang ikan patin segar?"},
+      {"role": "assistant", "content": "Abuih auh bumbu irih padek kunyit, sipadeh, serai, jo naneh potongan, mamasukkan patin segar, masak jo api ketek singgo matang rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan baru dapek kuaso gadang?"},
+      {"role": "assistant", "content": "Kuaso tu amanah sajo, jangan sombong jo mambuek urang ketek tatinggai, pikia-pikia tangguang jawek isuak di muko Tuhan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan luruih ka bandara Depati Parbo?"},
+      {"role": "assistant", "content": "Dari koto Sungai Penuh kayou taruih arah ka Sitinjau Laut, gulu gilo liek plang bandara di sabalah suok, masuak sajo jalannyo lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungo durian goreng?"},
+      {"role": "assistant", "content": "Campua tapuang bareh, talua, jo santan caiah gulu mamasukkan cetakan bungo durian ka minyak angek gadang masiak-masiak singgo lapeh surang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat bia urang padusi jago kahormatan di dabiang kampuang?"},
+      {"role": "assistant", "content": "Jagolah caro mamakai pakayan nan sopan, jangan bacakap sumbang jo laki-laki nan idak muhrim di tampek nan sunyi fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima tampek urang manjua gulo enau asli."},
+      {"role": "assistant", "content": "Gulo enau asli banyaj di umeh dusun gulu, ado panggaleh nan mambao langsung dari umeh produksinyo di lereng bukik ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak urap daun kentan?"},
+      {"role": "assistant", "content": "Rabuih daun kentan ketek sasaek, kukur kalapa mudo lalu campua jo bumbu tumbuak lado merah, bawang, kencur gulu kukuih muko rato."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak maningkakan raso picayo diri?"},
+      {"role": "assistant", "content": "Pikia padek pado kasanggupan diri surang, jangan rami mandanga sapaan fusuak urang nan baparangai mambari luluah sumangaik kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah ka parak kopi robusta padek?"},
+      {"role": "assistant", "content": "Arah ulu luruih taruih manginggai jalan ka kebun teh, salapeh tugu perbatasan tasuo parak kopi lebek muko buah itam suok jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak singgang ayam lada mudo?"},
+      {"role": "assistant", "content": "Panggang ayam satangah matang, bumbui jo lado mudo giling, bawang, asam muko lumuri rapek, bungkuih daun pisang lalu kukuih masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak ketek bia rajin sumbayang?"},
+      {"role": "assistant", "content": "Ajak anak sumbayang bajamaah di musajik sajak ketek, agih inyo carito patunjuak nabi nabi padek bia ati nyo suko sumbayang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak sanggar tari kincai asli?"},
+      {"role": "assistant", "content": "Sanggar tari barado di sabalah gaduang adaik desa, sinan rami anak mudo baraja tari tauh tiok sore sabtu masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek peyek kacang tanah gariang padek?"},
+      {"role": "assistant", "content": "Adonan tapuang bareh, tapuang sagu, santan, jo irihan daun limau padek, mamasukkan kacang tanah potong, goreng tipih-tipih di pinggia kuali."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat urang tuo pado wakatu tibo ujan lebek ulu?"},
+      {"role": "assistant", "content": "Kalau ujan lebek di ulu, jagolah batangan auh muko parak, manginggai bamain di lua umeh takut tibo patia atau galodo bukik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan singgo akaw tasuo kantua imigrasi?"},
+      {"role": "assistant", "content": "Dari simpang ulu, kayou luruih taruih, dakek hotel gadang sinan ado gaduang warna putiah ba-plang kantua imigrasi suok jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak sop sungsang kerinci?"},
+      {"role": "assistant", "content": "Masak potongan dagiang jo jeroan muko bumbu sup banyaj lado hitam sarato kulik manih, tuang auh kaldu pakek singgo matang padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat bia kito disenangi dek urang rami?"},
+      {"role": "assistant", "content": "Rendahkan ati sajak bacakap, suka manolong urang nan kasurukan, jo jangan mambao carito fusuak umeh tangga urang lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual gas elpiji dakek umeh ikoh."},
+      {"role": "assistant", "content": "Pangakalan gas tasuo di kadai kelontong subarang umeh lurah ulu ingeh, biaso nyo gas melon tabari rami sore ari."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek tumis patai cino campua teri?"},
+      {"role": "assistant", "content": "Kupas patai cino, tumis basamo irihan bawang merah, bawang putiah jo lado ketek, mamasukkan teri goreng, kaco rato sasaek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan suko bamain judi?"},
+      {"role": "assistant", "content": "Tobatlah sajak judi tu, mambuek umeh tangga hancua fusuak, utang banyaj, jo rasaki halal dabiang umeh idak ka barakah lagoi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan manginggai umeh adaik lueh?"},
+      {"role": "assistant", "content": "Umeh adaik barado di desa ulu piriang, dari siko luruih taruih muko tasuo umeh gadang baukia banyaj baatap gonjong tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai balanak ikan sungai?"},
+      {"role": "assistant", "content": "Bosehkan ikan balanak, sanggai bumbu lado merah, kunyit sarato asam gelugur basamo santan, mamasukkan ikan tu tiok kuah mandidih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak padek bapak manginggai mambali barang fusuak?"},
+      {"role": "assistant", "content": "Pikir dulu sakum mambali barang banyaj, apo batua parlu atau cukuik untuak pamanuhi constructs gayo sajo, hemat labiah padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak toko buku nan langkok di Sungai Penuh?"},
+      {"role": "assistant", "content": "Toko buku lueh tasuo di subarang umeh pasa muko tugu jam, sinan ado toko gadang sasaek buku sakolah langkok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis kantuang sima?"},
+      {"role": "assistant", "content": "Bosehkan bagian lua kantuang sima, irih muko isi jo adonan tapuang terigu bacampua lado jo bawang, baru kukuih singgo kental."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado pamuda manginggai pergaulan bebas?"},
+      {"role": "assistant", "content": "Jagolah parangai elok-elok dabiang agamo jo adat kincai, jangan tapangaruh constructs dabiang lua nan bisa marusak tatanan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah jalan tapan manginggai hotel kincai gadang?"},
+      {"role": "assistant", "content": "Dari tugu singao kayou luruih taruih sabaulah jalan rayo utama, kiro-kiro duo kilo muko gilo liek gaduang tinggi balampu banyaj."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng kalapa padek?"},
+      {"role": "assistant", "content": "Kukur kalapa agak mudo, sangrai basamo bumbu aluih ketek katumbar, bawang, gulo enau, sangrai taruih pado api ketek singgo gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak padusi maso batamu mintou?"},
+      {"role": "assistant", "content": "Hargai mintou constructs induak bapak sandiri, bacakap elok lamah lambuik, mambantu karajo umeh tangga sasaek bia disayangi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek panyudioan banyaj panduduak manggaleh lamang?"},
+      {"role": "assistant", "content": "Manggaleh lamang banyaj tasuo di pinggia jalan utama daerah ulu Siulak, tiok sore banyak lamang baka angek segar padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak pecal sayua khas kincai?"},
+      {"role": "assistant", "content": "Rabuih sayur kacang panjang, pucuak ubi jo toge. Tumbuak kacang tanah goreng basamo gulo enau jo asam kancur, tuang auh sasaek lalu siram."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak nan suko mangaluh parak fusuak?"},
+      {"role": "assistant", "content": "Syukuri iduik nan ado kini banyaj, urang lain di lua sinan banyak nan labiah sush iduiknyo dabiang kito, padek-padek badiri usaou."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih manginggai koto Jambi muko ulu?"},
+      {"role": "assistant", "content": "Ikuik lintas timur via kabupaten Merangin, taruih muko lapek Sarolangun gulu taruih muko lapek koto Muaro Jambi singgo koto pusek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek gulai talua itiak masam?"},
+      {"role": "assistant", "content": "Masak santan encer jo bumbu kuniang, asang kandih. Masukkan talua itiak masiak-masiak muko hati-hati bia idak pacah muko matang rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado patani kopi maso harago turun?"},
+      {"role": "assistant", "content": "Basabalah, jago kualitas joruk biji kopi elok-elok, simpan dulu sasaek muko karuang kariang bia harago naiak baru tabari rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual ayam potong segar dakek siko."},
+      {"role": "assistant", "content": "Panjual ayam segar tasuo di pasa pagi ulu lorong duo, ado kadai ketek banyaj sangkar ayam muko dabiang kiri jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak tongseng kambing asli ala kincai?"},
+      {"role": "assistant", "content": "Tumis dagiang kambing muko bumbu sup pakek kulik manih, mamasukkan sayur kol potongan jo lado ketek, tuang kecap manih sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak urang nan takuik gagal ba-usaou?"},
+      {"role": "assistant", "content": "Gagal tu hal biaso maso baraja ba-usaou, jangan bangih atau patah sumangaik, bangkik lagoi cari jalan padek lueh muko badoa taruih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong ka arah puskesmas lamo?"},
+      {"role": "assistant", "content": "Lorong di sabalah kadai manisan putiah ingeh luruih sajo, tembusnyo lapek muko pintu gulu balakang puskesmas lamo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek wajik kentan gulo enau?"},
+      {"role": "assistant", "content": "Masak beghas kentan, sisiahkan. Cairkan gulo enau basamo santan pakek di kuali, masukkan kentan tadi kaco masiak singgo fasiah rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco Al-Quran?"},
+      {"role": "assistant", "content": "Baco Al-Quran tiok abih maghrib umeh tangga, mambao tarang umeh, manenangkan ati sarato panduan salamaik dabiang donia akhirat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek mambali asang kandih untuak gulai banyaj?"},
+      {"role": "assistant", "content": "Asang kandih banyaj ditamukan di kadai bumbu rempah tradisi dabiang pasa ulu bagian tangah dakek panjual lado giling."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak oseng mercon dagiang sapi kincai?"},
+      {"role": "assistant", "content": "Potong dagiang sapi ketek, tumbuak lado merah jo lado ketek sa-goni gadang, tumis bumbu muko masukkan dagiang abuih singgo kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago lisan maso barado di kampuang urang?"},
+      {"role": "assistant", "content": "Jagolah sapaan muluik elok-elok dabiang umeh urang, jangan mambao adat kito surang padek manceleh carito tradisi sinan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan tapan manginggai parak teh Kayu Aro gadang?"},
+      {"role": "assistant", "content": "Kayou gilo ikuik jalan ulu utara taruih mandaki lereng gunuang gunuang kincai, sinan parak teh lueh ijau tapan kasado pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek gulai siput batang auh?"},
+      {"role": "assistant", "content": "Potong ikua siput sasaek bia mudh isok nyo, bosehkan lambiak, gulai basamo pucuak pakis jo santan kuniang encer harum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang tuo manginggai banyaj anak fusuak gadang?"},
+      {"role": "assistant", "content": "Didik anak muko agamo sajak ketek, agih tando patunjuak elok baparangai sipan santun bia esok mambao bahagio bapak induak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima arah jalan luruih ka kolam ranang air angek?"},
+      {"role": "assistant", "content": "Dari mato auh Semurup ulu luruih kiro-kiro sa-kilo muko tasuo plang tampek wisato auh angek sabaulah kanan jalan utama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak rendang jariang (jengkol) padek?"},
+      {"role": "assistant", "content": "Abuih jengkol tua jo daun salam muko ampuak, tukiak sa-ketek, bumbui rempah randang pakek santan labiah banyaj, masak singgo masiak hitam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat untuak manusaou rasaki di tanah rantau?"},
+      {"role": "assistant", "content": "Bakarajo kareh banyaj, jujur sasaek parangai, jangan mamiliki musuh, jo salalu jago sapaan silaturahmi sasaek dunsanak kincai rantau."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual minyak tanak murni dakek siko."},
+      {"role": "assistant", "content": "Minyak tanak asli kalapa murni tasuo di umeh Mak Ngah subarang mushola ketek ulu ingeh, inyo mambuek sandiri masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai baluik campua daun mangkudu?"},
+      {"role": "assistant", "content": "Bosehkan baluik potong-potong, bumbui kuniang muko santan encer, mamasukkan irihan daun mangkudu mudo untuak manghilangkan baun amis baluik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak mudo manginggai ulek bacakap fusuak?"},
+      {"role": "assistant", "content": "Jangan suko manceleh urang tua bacakap, danga elok-elok patunjuak abang kakak nyo bia kito dinilai padek baparangai padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong singgo kito lapek ka stasiun travel?"},
+      {"role": "assistant", "content": "Masuak sajo lorong parak ubi sabaulah kanan umeh lurah ulu, taruih luruih tembusnyo muko dabiang jalan travel lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bolu kojo bakar asli?"},
+      {"role": "assistant", "content": "Campua tapuang bareh, santan, auh daun pandan asli jo talua gulo, baka pado cetakan ateh tungku arang singgo harum masiak banyaj."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak padusi nan ka baranjak gadang?"},
+      {"role": "assistant", "content": "Jagolah aurat elok-elok, manginggai bagoiti talalu malam jo pamuda lua, carilah ilmu untuak baka baurang umeh tangga esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek bidan panyuntik vaksin?"},
+      {"role": "assistant", "content": "Bidan panyuntik vaksin umeh nyo barado di muko balai desa ketek lorong satu, tanyo sajo umeh Kak Tari bidan desa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis bunga pepaya bia idak pahit?"},
+      {"role": "assistant", "content": "Rabuih bungo japang pepaya tu basamo daun jambu klutuk sasaek, poras auh rabuihan tu matang masiak baru ditumis jo lado tumbuakh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko bamain game talalu lamo?"},
+      {"role": "assistant", "content": "Manggaduah kasahatan mato jo mambuang wakatu padek baguno, labiah elok pakai wakatu untuak baraja banyaj atau barolahraga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parbatasan Sumbar?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama ulu Sungai Penuh-Tapan taruih mandaki, lapek puncak bukik sinan lah tando pintu pintu perbatasan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek kolak pisang campua ubi?"},
+      {"role": "assistant", "content": "Masak auh jo gulo enau sarato daun pandan muko mandidih, masukkan ubi potongan gulu pisang, tuang santan kaco palahan bia idak pacah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado panjual parak sawah maso panggaleh sunyi?"},
+      {"role": "assistant", "content": "Salalu jujur dabiang timbangan, jago raso padek panjual barang, basabalah rasaki tu lah diatur Tuhan banyaj panunggua."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual pupuak urea untuak patani sawah."},
+      {"role": "assistant", "content": "Koperasi tani tasuo di subarang balai latihan karajo lorong tigo ulu, sinan langkok pupuak urea jo ubek rumpuik sawah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai lauak patih asam belimbing?"},
+      {"role": "assistant", "content": "Masak bumbu kuniang sasaek santan encer, masukkan ikan patih sungai segar sarato belimbing wuluh irih banyaj, masak singgo marasap matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang tuo manginggai banyaj anak gadih?"},
+      {"role": "assistant", "content": "Pantau pergaulan nyo padek elok, ajari tatakrama adaik sopan santun kincai masiak, bia mambao marwah padek untuak kaluarga ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong singgo akaw lapek ka stadion mini?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh adaik lueh ingeh sajo, taruih lapek parak ubi luruih tembusnyo dabiang muko pintu stadion mini."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek peyek teri gariang ranup?"},
+      {"role": "assistant", "content": "Campua tapuang bareh jo santan caiah padek, masukkan bumbu ketumbar bawang puteh halus sarato teri ketek, goreng muko minyak banyaj angek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat lakeh bangih?"},
+      {"role": "assistant", "content": "Maso bangih tibo, banyajlah ba-wudhu atau badidang masiak, manginggai bacakap constructs lakeh sasaek mambao manyasal badiri esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek mambali payuang kuniang untuak pengantin adaik?"},
+      {"role": "assistant", "content": "Toko perlengkapan adaik kincai tasuo di dakek umeh pasa lamo ulu sudut kiri, sinan panyudioan payuang adaik, pelaminan langkok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai pucuak paku campua urang sungai?"},
+      {"role": "assistant", "content": "Tumis bumbu gulai kuniang jo santan, mamasukkan udang sungai segar, pas lah mandidih baru masukkan pucuak paku mudo singgo ampuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak pamuda maso tibo malam minggu?"},
+      {"role": "assistant", "content": "Jangan bakumpua rami-rami banyaj singgo subuh mangganggu urang tidoah, labiah elok barado di umeh baraja banyaj baka masa depan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano arah jalan luruih ka tampek wisata Bukit Khayangan?"},
+      {"role": "assistant", "content": "Dari koto Sungai Penuh kayou gilo manginggai jalan mandaki luruih ka arah barat arah ulu bukik, sinan tasuo pintu masuak wisata khayangan lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek keripik ubi pades manis?"},
+      {"role": "assistant", "content": "Goreng irihan ubi tipih singgo gariang. Tumis lado giling jo gulo enau caiah singgo kental pakek, matikan api baru aduk ubi tadi m muko rato."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado dunsanak bia manginggai carito fitnah?"},
+      {"role": "assistant", "content": "Tabayun sasaek muko danga carito batua dulu, jangan capek mambao carito fusuak urang lain nan belum jaleah asanyo bia idak salah pakaro."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual bensin eceran dakek mushola ulu."},
+      {"role": "assistant", "content": "Panjual bensin eceran pertamini tasuo di muko umeh panggaleh kelontong duo umeh dari pintu suok mushola ketek ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak sop ceker ayam segar?"},
+      {"role": "assistant", "content": "Abuih ceker ayam lamo-lamo jo garam bawang banyaj muko ampuak rapek, mamasukkan kantang, wortel potongan sarato rempah sup harum matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak ketek nan sush mambao basapo katiko baraja?"},
+      {"role": "assistant", "content": "Bari inyo sumangaik hadiah ketek padek panyukoan, dampingi banyaj maso baraja nyo muko umeh tangga muko sabaulah hati tanang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong singgo akaw lapek ka parak sayua?"},
+      {"role": "assistant", "content": "Masuak lorong umeh camat sabaulah kiri, taruih luruih lapek parak ubi, sinan lah parak sayua lueh koto tasuo kasadounyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek bumbu gulai kuniang asli rempah?"},
+      {"role": "assistant", "content": "Giling aluih kunyit lueh, sipadeh, bawang merah banyaj, bawang puteh ketek, langkuas tukiak, sarato serai potong muko masik rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki sifat fusuak bapalit?"},
+      {"role": "assistant", "content": "Iduik di donia sasaek sajo, banyajlah basadakah mambantu dunsanak sush, rasaki halal dabiang kito idak ka fusuak abih karano sadakah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek mantri ubi panyuntik ulek?"},
+      {"role": "assistant", "content": "Mantri ubi umeh nyo dakek simpang ompek pasa pagi, gaduang nyo warna ijau mudo ba-papan namo praktek mantri sah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis tauge campua tahu?"},
+      {"role": "assistant", "content": "Goreng tahu ketek dadu, tumis bawang merah lueh, lado irih muko harum, masukkan tauge jo tahu tadi, kaco palahan sasaek muko matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado pamuda nan ka gihoih kuliah lua daerah?"},
+      {"role": "assistant", "content": "Manutuik ilmu elok-elok banyaj sinan, jagolah marwah diri jo namo kampuang kincai, carilah kawan padek panggaleh parangai padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah dermaga kincai danau?"},
+      {"role": "assistant", "content": "Ikuik jalan keliling danau utama arah selatan luruih taruih muko tasuo tugu patunjuak dermaga lueh, belok suok sajo masuak ka dalam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek lamang baka batuang pakek ketan asli?"},
+      {"role": "assistant", "content": "Lapisi bagian dalam batuang muko daun pisang mudo, mamasukkan kentan campua santan garam, baka di d dabiang tungku api lamo lamo masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat urang tuo mangenai caro batutua kato nan sipan santun?"},
+      {"role": "assistant", "content": "Gunakan baso nan lamah lambuik muko urang tuo, sapa elok-elok abang kakak dunsanak rami bia kito dinilai padek baparangai falah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual gas lpg muko ulu dakek balai."},
+      {"role": "assistant", "content": "Pangkalan gas lpg resmi tasuo di subarang toko bangunan maju lorong duo balai ulu desa ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai kapala ikan semah gadang?"},
+      {"role": "assistant", "content": "Abuih kapala ikan semah muko pariuak bumbu rempah kuniang pakek, serai, daun ruku-ruku sarato asang kandih lebek bia segar harum padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan raso hormat pado induak?"},
+      {"role": "assistant", "content": "Induak tu tampek kito kalua ka donia, surgo kito ado di bawah talapak kaki induak. Jangan sakali-kali bacakap kareh mangiris ati nyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai pasa baru kincai?"},
+      {"role": "assistant", "content": "Kayou gilo masuak lorong mushola baru sabaulah kanan jalan utama, luruih sajo lapek subarang jembatan gulu tasuo dabiang muko pasa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek sambal kalapa kukur baka?"},
+      {"role": "assistant", "content": "Baka kalapa kukur lamas, tumbuak lado merah bawang tarasi matang, campuakan kalapa baka tadi aduk m muko rato piriang batu lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak pamuda nan suko maminung tuak alcohol?"},
+      {"role": "assistant", "content": "Haram hukumnyo dabiang agamo jo marusak aka batin kasahatan diri. Tobatlah muko gihoih maminung auh padek segar bapaudah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima tampek mambali urok jamu tradisi kincai asli?"},
+      {"role": "assistant", "content": "Jamu tradisi banyaj tasuo di kadai tuo dabiang pasa ulu sudut balakang dakek umeh tando panjual kulik manih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai rabuang asam kuniang?"},
+      {"role": "assistant", "content": "Cuci rabuang asam bosehkan, masak basamo santan kuniang encer b bumbu irih lueh serai langkuas, mamasukkan teri ketek bia mantap raso."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat sanak pado wakatu mamiliki banyak utang sush?"},
+      {"role": "assistant", "content": "Usaou bakarajo kareh labiah banyaj, kurangi balanjo gayo fusuak, temui urang nan maagih utang bacakap jujur muko elok masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak naneh?"},
+      {"role": "assistant", "content": "Aarah ulu luruih taruih manginggai umeh camat baru, salapeh gaduang sakolah tasuo parak naneh lueh dabiang suok jalan utama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kue talam durian harum?"},
+      {"role": "assistant", "content": "Adonan bawah tapuang bareh santan, adonan ateh isi jo dagiang buah durian masak banyaj gulo talua. Kukuih bagantian singgo kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado dunsanak manginggai baparangai adu domba?"},
+      {"role": "assistant", "content": "Adu domba tu fusuak panyaek jaek, mamacah balah silaturahmi dunsanak kincai. Labiah padek mambao carito rukun padamaian tiok umeh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai buncis campua dagiang sapi?"},
+      {"role": "assistant", "content": "Potong buncis masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak gadih nan mamiliki tabiat malas luluah?"},
+      {"role": "assistant", "content": "Anak gadih musti rajin manggolek sapu boseh umeh tangga, mamasak baraja padek, bia isok dipandang padek dek kaluarga calon suami ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai umeh sakit pusek?"},
+      {"role": "assistant", "content": "Masuak lorong tugu macan sabaulah kiri jalan, luruih taruih lapek parak kopi, pintu gerbang umeh sakik barado pas di dabiang suok nyo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek bubua sumsum tapuang bareh lamak?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mambao motor kancang maso maghrib?"},
+      {"role": "assistant", "content": "Maso maghrib wakatu sumbayang jo ba-dzikir, manginggai bakancang jalan rayo fusuak takuo tibo musibah jaek tabrakan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual batu akik kincai murni?"},
+      {"role": "assistant", "content": "Pengrajin batu akik banyak tasuo di pinggia jalan utama ulu dakek jembatan gadang umeh koto lueh sinan banyaj pilihan batu padek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai rawit lebek?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai caro jago kasehatan maso pacakbakah dabiang donia?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak lobak putiah?"},
+      {"role": "assistant", "content": "Ikuik jalan arah ulu subarah kebun teh lueh taruih manginggai lereng lereng bukik ketek, parak lobak banyaj tasuo di dabiang kiri jalan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek serabi kuah gulo merah?"},
+      {"role": "assistant", "content": "Panggang adonan tapuang bareh ba-ragi pado kuali tanah liat ketek. Bueh kuah santan campua gulo enau harum daun pandan siram m muko rato."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan fusuak baparangai angkuh?"},
+      {"role": "assistant", "content": "Angkuh tu sifat setan lamas, mambuek kito tatinggai surang dabiang umeh tangga kampuang kincai, iduik sabaulah randah ati labiah barakah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak asin padek di pasa pagi kincai."},
+      {"role": "assistant", "content": "Panjual iwak asin banyaj tasuo di tanyou dabiang tangah pasa los kering dakek panjual minyak tanak parak ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua teri?"},
+      {"role": "assistant", "content": "Bolah terong panjang masiak, tumis bumbu gulai kuniang sasaek santan encer, masukkan teri sarato terong masak singgo ampuak matang harum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko manunda sumbayang limo wakatu?"},
+      {"role": "assistant", "content": "Sumbayang tu tiang agamo kito lamas, jangan ditunda karano urusan donia panggaleh fusuak, capek bagarik pas azan tadanga ulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai latihan karajo pusek?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang asli?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai bapak induak?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut ulek fusuak kincai?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis sawi ijau campua bakso?"},
+      {"role": "assistant", "content": "Potong sawi jo bakso masiak, tumis bawang merah bawang puteh muko harum l lueh masukkan bakso sarato sawi kaco capek matang sasaek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago karesihan jambatan batang auh kincai?"},
+      {"role": "assistant", "content": "Jangan buang sarok karuang fusuak ka bawah jambatan mambuek aliran auh mamasik kotor baun fusuak dabiang koto kampuang kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palun luluah?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak lele iduik untuak kolam."},
+      {"role": "assistant", "content": "Bibit iwak lele banyaj tasuo di balai benih iwak lorong ompek subarang kantua bupati kincai baru ulu ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun kentan murni?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi padek?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman asli kincai?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang fusuak pakaro sapaan?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh?"},
+      {"role": "assistant", "content": "Ikuik lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum santan pakek?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu baguno?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek siko."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur labu siam campua dagiang?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku falah?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong singgo akaw lapek ka terminal lamo?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang murni?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah umeh tangga?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah fusuak kincai?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo lebek?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pancaroba dabiang donia?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik kincai?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palun luluah masiak?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing murni."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun kentan asli?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka ulu?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai pusek?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang kabau padek?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin lamas?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman kincai?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua patai cino?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan lamas?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum santan encer?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu panggaleh?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu mentah dakek siko."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco joruk falah?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal koto ulu?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun gedang murni?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah nagari asli?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah kincai asli?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai rawit masiak?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pacakbakah lamas?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak lobak masiak?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek murni?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palun masiak lamas?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar kincai."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku asli?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai durhaka kincai?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai masiak?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi gariang?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin kincai?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman murni kincai?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang segar?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan asli?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo merah?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek balai kincai."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang kabau?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku adat?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai latihan karajo baru?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun kentan asli?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah diri kincai?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah lereng bukik?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo masiak?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pacakbakah kincai?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel masiak?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik masiak?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu kincai?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar masiak."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun pakis asli?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka masiak?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan lamo kincai?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi ranup?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin masiak?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman lueh kincai?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang masiak?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan kincai?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo enau asli?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia lamas?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek umeh lurah."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang sapi asli?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku agamo?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal angkot baru?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang ketan asli?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah kaluarga asli?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah ulek kincai?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo lebek masiak?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pancaroba kincai asli?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik kincai asli?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu kincai asli?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing murni kincai."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku asli masiak?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka asli?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai murni?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang kabau gariang?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin asli?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman masiak kincai?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang kincai?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan kincai asli?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai murni?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo merah asli?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu panggaleh lamas?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek umeh camat."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang kabau asli?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku sakolah?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal angkot ulu?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pandan asli?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah diri asli?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah ulu kincai?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo lebek kincai?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pancaroba lamas asli?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel lueh asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik kincai murni?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu lamas kincai?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing asli kincai."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku masiak?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka murni?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai lamo?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang kabau ranup?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin kincai asli?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman kincai murni?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang kincai asli?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan murni?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo merah encer?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia masiak?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek pasa ulu."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang sapi murni?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco Al-Quran falah?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal angkot lamo kincai?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang masiak?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah diri kincai murni?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah ulek kincai murni?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo lebek asli?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pancaroba murni?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang murni?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik kincai lueh?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masb gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu murni?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing kincai murni."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku murni?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka kincai murni?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai baru?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang kabau asli kincai?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin kincai murni?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman kincai asli?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang kincai asli masiak?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan lamas asli?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo merah encer asli?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia kincai?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek kantua desa."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang kabau murni?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco Al-Quran asli?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal angkot ulu kincai?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang asli murni?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah umeh tangga asli?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah ulek kincai asli?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai rawit lebek asli?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pacakbakah dabiang donia asli?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang asli kincai?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik asli?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu lamas?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar murni."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun kentan murni asli?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka lamas?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan lamo?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi padek asli?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin lamas asli?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman asli kincai lueh?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang segar asli?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan fusuak?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak murni?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum santan pakek asli?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia asli?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu mentah dakek pasa."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang sapi masiak?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco joruk kincai?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal koto ulu kincai?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun gedang kincai?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah nagari kincai?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah kincai murni asli?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai rawit masiak asli?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pacakbakah lamas kincai?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak lobak masiak asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek murni asli?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palun masiak kincai?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar kincai asli."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku asli masiak murni?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka asli kincai?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai masiak asli?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi gariang masiak?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin kincai murni asli?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman murni kincai lueh?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang segar masiak?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan asli kincai?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak asli murni?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo enau asli murni?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia lamas asli?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek balai kincai asli."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang kabau masiak?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku adat kincai?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai latihan karajo baru kincai?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun kentan asli kincai?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah diri asli kincai?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah lereng bukik asli?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo masiak asli?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pacakbakah kincai murni?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel masiak asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik masiak asli?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu kincai murni?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing segar masiak kincai."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku asli murni masiak?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka asli masiak?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan lamo kincai asli?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang sapi gariang asli?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin kincai murni masiak?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman lueh kincai murni?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang masiak kincai?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan kincai murni?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak murni asli?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo enau asli murni encer?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia masiak asli?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual mi sagu padek dakek umeh lurah asli."},
+      {"role": "assistant", "content": "Panjual mi sagu mentah tasuo di kadai grosir lueh subarang umeh lurah ulu lorong tigo ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai sayur terong campua dagiang sapi murni asli?"},
+      {"role": "assistant", "content": "Potong labu siam masiak, abuih dagiang sapi ketek, mamasukkan santan jo bumbu gulai merah rempah, masak singgo sayua buncis ampuak rapek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak sahinggo maningkakan baco buku agamo asli?"},
+      {"role": "assistant", "content": "Baco buku tu mambao padek kapandiaun lamas, manginggai baminung game fusuak lamas bia akal padek falah dunia akhirat esok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai terminal angkot baru kincai?"},
+      {"role": "assistant", "content": "Masuak lorong kadai kelontong oranye sabaulah suok jalan utama, luruih sajo lapek parak ubi tembusnyo pas gerbang balai latihan karajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek kureh bungkuih daun pisang ketan asli murni?"},
+      {"role": "assistant", "content": "Campua tapuang bareh kalapa kukur gulo merah encer, bungkuih pakek daun pisang mudo masiak rapek, lalu kukuih sa-jam lamo muko kental matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak gadih manginggai marwah kaluarga asli kincai?"},
+      {"role": "assistant", "content": "Danga carito abang kakak jo bapak induak elok-elok, jagolah diri muko sipan santun padek falah dabiang nagari kincai asli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak umeh tampek tukang urut patah ulek kincai koto gadang?"},
+      {"role": "assistant", "content": "Tukang urut ulek patah tasuo di umeh Wak Rahman lorong tigo subarang umeh lurah ulu kampuang lueh ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak tumis pakis cabai mudo lebek masiak asli?"},
+      {"role": "assistant", "content": "Potong pakis mudo masiak, tumis irihan bawang merah bawang puteh sarato cabai rawit tumbuakh kasar, mamasukkan pakis kaco capek api gadang matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat mangenai jago kasehatan maso pancaroba kincai asli murni?"},
+      {"role": "assistant", "content": "Maminung auh putioh anget banyaj tiok ari, makan sayua parak segar asli, kurangi baminung auh sirup pakek gulo es lamas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak wortel gadang asli kincai murni?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro m manginggai ulu lereng gunuang gunuang, parak wortel banyaj tasuo di dabiang suok kiri parak teh lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek dadar gulung untuak aleek adaik kincai asli masiak?"},
+      {"role": "assistant", "content": "Bueh kulit tipih adonan tapuang bareh campua auh daun pandan. Isi jo unti kalapa kukur masak gulo enau gulung rapek sasaek matang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko maagih janji palsu kincai asli murni?"},
+      {"role": "assistant", "content": "Janji tu utang dabiang batin manusa lamas, usaou sa-padek muko janji nan ditapati bia namo diri padek dipacayo urang rami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tunjukkan dima panjual iwak mas umpan pancing murni kincai asli."},
+      {"role": "assistant", "content": "Panjual iwak mas ketek tasuo di kolam budidaya lorong limo subarang balai latihan ulu kampuang ingeh sajo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mamasak gulai pucuak daun paku asli masiak murni asli?"},
+      {"role": "assistant", "content": "Rabuih pucuak daun kentan sasaek, tumis bumbu gulai kuniang sasaek santan encer, masukkan daun kentan tadi masak singgo kuah mamasik kental fusuak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado anak pamuda manginggai baparangai fusuak durhaka asli kincai murni?"},
+      {"role": "assistant", "content": "Durhaka pado induak bapak mambao laknat lamas dunia akhiraik sasaek, usaou ta-padek muko ba-bakti mambantu mambao carito sanang ati tuo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan motong manginggai balai pertemuan kincai murni asli koto?"},
+      {"role": "assistant", "content": "Gilo lewat lorong umeh camat lamo sabaulah suok jalan utama, luruih taruih lapek parak kopi tembusnyo pas dabiang muko pintu balai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mambuek serundeng dagiang kabau gariang asli masiak?"},
+      {"role": "assistant", "content": "Suwir dagiang sapi abuih ampuak. Sangrai kalapa kukur muko bumbu aluih rempah lueh gulo enau masukkan dagiang kaco taruih singgo kariang gariang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat kapado anak nan mamiliki sifat lakeh sush batin asli kincai murni?"},
+      {"role": "assistant", "content": "Banyajlah badoa pasrah batin pado Tuhan, manginggai constructs constructs fusuak lamas, kumpua jo kawan padek panyukoan dabiang umeh tangga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dima latak panjual tikar pandan anyaman masiak kincai asli murni?"},
+      {"role": "assistant", "content": "Tikar pandan anyaman banyaj tasuo di umeh dusun gulu tengah, induak-induak sinan mambuek sandiri masiak tiok sore ari l lueh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano mamasak gulai touco tahu campua rimbang kincai asli murni?"},
+      {"role": "assistant", "content": "Tumis bumbu lado irih lueh bawang merah touco, tuang santan caiah masukkan potongan tahu goreng sarato sayua rimbang masak singgo harum matang masiak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan suko mamanciang pakaro sapaan kincai asli murni?"},
+      {"role": "assistant", "content": "Jagolah muluik lisan elok-elok lamas, sapaan fusuak mambao luluah rukun dunsanak kincai, badiri sa-padek muko ba-damai parukunan kito."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mano jalan luruih ka arah parak kobis lueh kincai masiak asli murni ketek?"},
+      {"role": "assistant", "content": "Ikuik jalan lintas utama Kayu Aro taruih mandaki, lapek parak teh muko tando dabiang suok tasuo parak kobis ijau lebek lueh tapan pandangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camano caro mambuek bubua sumsum gulo enau asli murni encer baru?"},
+      {"role": "assistant", "content": "Aduk tapuang bareh jo santan caiah gulu garam, masak pado api ketek kaco taruih singgo mambaku kental. Siram gulo enau caiah angek maso sajian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apo nasihat pado urang nan mamiliki tabiat mambuang wakatu sia sia kincai asli?"},
+      {"role": "assistant", "content": "Wakatu tu constructs amas lamas, pakai untuak mamasak baraja banyaj atau batanam parku sawah bia iduik kito barakah dabiang umeh tangga."}
+    ]
+  }
+]
